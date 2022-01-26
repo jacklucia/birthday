@@ -4,4 +4,4 @@ year = input("Enter birth year ")
 
 print(month+"/"+day+"/"+year)
 
-print("Awesome!")
+print("Benny sucks!")
